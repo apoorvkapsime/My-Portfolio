@@ -594,4 +594,7 @@ header.sticky {
   .contact .action form input[type="email"] {
     width: 310px;
   }
+  .layer:hover h5 {
+    display: none;
+  }
 }
