@@ -597,4 +597,11 @@ header.sticky {
   .layer:hover h5 {
     display: none;
   }
+  .home {
+    width: 105%;
+  }
+
+  .top-btn {
+    margin-right: 5px;
+  }
 }
