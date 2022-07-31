@@ -108,7 +108,7 @@ section {
   min-height: 100vh;
   height: 100%;
   width: 100%;
-  background: url(../img/background.jpg);
+  background: url(../My-Portfolio/img/background.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -451,7 +451,7 @@ header.sticky {
   justify-content: center;
   text-align: center;
   border-radius: 12px;
-  background-image: url(../img/intro.png);
+  background-image: url(../My-Portfolio/img/intro.png);
   background-size: cover;
 }
 .center h3 {
